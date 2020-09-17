@@ -1,4 +1,4 @@
-package cybertek;
+package com.cybertek.tests;
 
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;

@@ -1,0 +1,30 @@
+2020-09-15 10:51:18 INFO  CalculatorTests:52 - Test 1
+2020-09-15 11:53:37 INFO  CalculatorTests:99 - Result is: 0.875
+2020-09-15 13:18:50 INFO  CalculatorTests:56 - Test 1
+2020-09-15 13:19:05 INFO  CalculatorTests:99 - Result is: 0.875
+2020-09-15 14:04:14 INFO  ChromeBrowserTest:28 - 
+2020-09-15 14:15:19 ERROR ConfigurationReader:15 - Failed to load properties file!
+2020-09-15 16:02:45 ERROR ConfigurationReader:19 - Failed to load properties file!
+2020-09-15 16:03:30 INFO  Driver:25 - Running tests on: android
+2020-09-15 16:06:24 INFO  Driver:25 - Running tests on: android
+2020-09-15 16:06:29 INFO  Driver:25 - Running tests on: android
+2020-09-15 16:08:25 INFO  Driver:25 - Running tests on: android
+2020-09-15 16:11:06 INFO  Driver:25 - Running tests on: android
+2020-09-15 16:43:23 INFO  Driver:25 - Running tests on: android
+2020-09-15 17:12:09 INFO  Driver:25 - Running tests on: android
+2020-09-15 17:15:21 INFO  Driver:25 - Running tests on: android
+2020-09-15 17:25:58 INFO  Driver:25 - Running tests on: android
+2020-09-15 17:28:01 INFO  Driver:26 - Running tests on: android
+2020-09-15 17:29:30 INFO  Driver:26 - Running tests on: android
+2020-09-15 17:43:39 ERROR ConfigurationReader:19 - Failed to load properties file!
+2020-09-15 17:46:07 ERROR ConfigurationReader:19 - Failed to load properties file!
+2020-09-15 17:46:44 ERROR ConfigurationReader:19 - Failed to load properties file!
+2020-09-15 17:47:10 INFO  Driver:26 - Running tests on: Android
+2020-09-15 17:47:10 ERROR Driver:54 - Driver type is not implemented yet!
+2020-09-15 18:09:42 ERROR ConfigurationReader:19 - Failed to load properties file!
+2020-09-15 18:10:47 INFO  Driver:26 - Running tests on: android
+2020-09-15 18:12:02 INFO  Driver:26 - Running tests on: android
+2020-09-15 18:18:28 INFO  Driver:26 - Running tests on: android
+2020-09-15 18:20:07 INFO  Driver:26 - Running tests on: android
+2020-09-15 18:22:03 INFO  Driver:26 - Running tests on: android
+2020-09-15 18:29:54 INFO  Driver:26 - Running tests on: android
